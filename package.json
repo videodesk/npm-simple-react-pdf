@@ -24,8 +24,8 @@
   ],
   "dependencies": {
     "pdfjs-dist": "^1.5.222",
-    "react": "^15.0.0",
-    "react-dom": "^15.0.0"
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.7.7",
